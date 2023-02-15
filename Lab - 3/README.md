@@ -25,14 +25,6 @@ Select an operation:
 2. Find the Median Value
 3. Find the Mode Value
 4. Exit
-1
-Mean Value: 4.8
-
-Select an operation:
-1. Find the Mean Value
-2. Find the Median Value
-3. Find the Mode Value
-4. Exit
 3
 Mode Value: 2
 
@@ -51,14 +43,6 @@ Select an operation:
 4. Exit
 1
 Mean Value: 4.8
-
-Select an operation:
-1. Find the Mean Value
-2. Find the Median Value
-3. Find the Mode Value
-4. Exit
-2
-Median Value: 6.0
 
 Select an operation:
 1. Find the Mean Value
