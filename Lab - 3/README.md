@@ -26,6 +26,7 @@ Select an operation:
 3. Find the Mode Value
 4. Exit
 3
+
 Mode Value: 2
 
 Select an operation:
@@ -34,6 +35,7 @@ Select an operation:
 3. Find the Mode Value
 4. Exit
 2
+
 Median Value: 6.0
 
 Select an operation:
@@ -50,6 +52,7 @@ Select an operation:
 3. Find the Mode Value
 4. Exit
 0
+
 Invalid choice. Please try again.
 
 Select an operation:
@@ -58,4 +61,5 @@ Select an operation:
 3. Find the Mode Value
 4. Exit
 4
+
 Exiting program...
