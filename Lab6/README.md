@@ -12,7 +12,7 @@ Top Five repeated characters and their count.
 Least FIve repeated characters and their count
 
 Output
-
+*********************************************************************************
 The vowels in the text and their counts are:
 
 a: 357
@@ -24,6 +24,7 @@ i: 360
 o: 260
 
 u: 107
+***********************************************************************************
 
 The digits in the text and their count are:
 
@@ -45,6 +46,8 @@ Eight: 2
 
 Nine: 0
 
+************************************************************************************
+
 The top 5 repeated words are:
 
 and: 34
@@ -57,6 +60,8 @@ the: 23
 
 energy: 12
 
+********************************************************************************
+
 The least five repeated words are:
 
 cybersecurity: 2
@@ -66,6 +71,8 @@ With: 2
 potential: 2
 
 increased: 2
+
+********************************************************************************
 
 The 5 least repeated characters are:
 
@@ -79,7 +86,7 @@ z - 2
 
 8 - 2
 
-PS D:\Java programmings\22122101-MDS273L-JAVA\Lab6>
+******************************************************************************
 
 
 
